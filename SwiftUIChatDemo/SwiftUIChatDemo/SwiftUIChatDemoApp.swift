@@ -13,6 +13,7 @@ import StreamChatSwiftUI
 struct SwiftUIChatDemoApp: App {
     @UIApplicationDelegateAdaptor(AppDelegate.self) var appDelegate
     //This is a test for the merging process works fine or not.
+   
     
     var body: some Scene {
         WindowGroup {
